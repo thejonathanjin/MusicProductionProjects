@@ -31,7 +31,7 @@ File & Folder Path:
 
 ## Usage
 
-[Images/PhobosDeimosAbletonProject.png]
+[Project Screen Capture](Images/PhobosDeimosAbletonProject.png)
 
 ## Contributing
 
