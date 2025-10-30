@@ -31,7 +31,7 @@ File & Folder Path:
 
 ## Usage
 
-[https://github.com/thejonathanjin/MusicProductionProjects/blob/main/Images/PhobosDeimosAbletonProject.png]
+[/Images/PhobosDeimosAbletonProject.png]
 
 ## Contributing
 
