@@ -22,6 +22,8 @@ File & Folder Path:
 │   ├── Phobos and Deimos [2024-08-11 213304].als
 │   └── Phobos and Deimos [2024-08-11 214547].als
 ├── Icon\015
+├── Images
+│   └── PhobosDeimosAbletonProject.png
 ├── Phobos and Deimos.als
 └── Samples
     └── Recorded
@@ -29,9 +31,7 @@ File & Folder Path:
 
 ## Usage
 
-<iframe src="https://giphy.com/embed/uQhr9Y6c8DJAbiSAOq" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uQhr9Y6c8DJAbiSAOq">via GIPHY</a></p>
-
-<iframe src="https://giphy.com/embed/IHWGDeTEFKuRpIJRMK" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/IHWGDeTEFKuRpIJRMK">via GIPHY</a></p>
+https://github.com/thejonathanjin/MusicProductionProjects/blob/main/AbletonProjectScreenCapture.png
 
 ## Contributing
 
